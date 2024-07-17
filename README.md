@@ -27,11 +27,8 @@
 - 🌟 Committed to crafting code that's clean, maintainable, and thoroughly tested.
 
 #### :fire: My Stats :
-<div style="margin: auto; text-align: center">
 
-<a href="https://github.com/quangdz1704"><img src="https://github-readme-streak-stats.herokuapp.com?user=quangdz1704&theme=meta-light&border_radius=4&background=45%2CFF9D01%2CFFEB25&border=FFFCF9" alt="GitHub Streak" /></a>
-</div>
-
+<a align="center" href="https://github.com/quangdz1704"><img src="https://github-readme-streak-stats.herokuapp.com?user=quangdz1704&theme=meta-light&border_radius=4&background=45%2CFF9D01%2CFFEB25&border=FFFCF9" alt="GitHub Streak" /></a>
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=quangdz1704&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="quangdz1704"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="quangdz1704"/> </p>
 
