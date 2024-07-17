@@ -22,15 +22,15 @@
 
 
 
-- 💼 Currently exploring the exciting domains of frontend and backend development.
-- 🚀 Passionate about JavaScript and TypeScript.
-- 🌟 Committed to crafting code that's clean, maintainable, and thoroughly tested.
+- 💼 Diving into frontend and backend development.
+- 🚀 Enthusiastic about new technologies.
+- 🌟 Focused on writing clean, maintainable, and well-tested code.
 
 #### :fire: My Stats :
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=quangdz1704&theme=meta-light&border_radius=4&background=45%2CFF9D01%2CFFEB25&border=FFFCF9" alt="GitHub Streak" /></p>
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=quangdz1704&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="quangdz1704"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="quangdz1704"/> </p>
+<img  height='141px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="quangdz1704"/> </p>
 
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangdz1704) -->
@@ -48,7 +48,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="AntDesign" alt="AntDesign" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCss" alt="TailwindCss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
