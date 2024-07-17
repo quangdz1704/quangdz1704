@@ -13,9 +13,9 @@
 
 #### 💻 &nbsp; About Me :
  <p>
-  <img src="https://badges.pufler.dev/visits/trungbach/github-profile"> 
-  <img src="https://badges.pufler.dev/repos/trungbach">
-  <img src="https://badges.pufler.dev/commits/monthly/trungbach">
+  <img src="https://badges.pufler.dev/visits/quangdz1704/github-profile"> 
+  <img src="https://badges.pufler.dev/repos/quangdz1704">
+  <img src="https://badges.pufler.dev/commits/monthly/quangdz1704">
 </p>
 
 
@@ -27,8 +27,8 @@
 
 #### :fire: My Stats :
 
-<a href="https://github.com/trungbach">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungbach&theme=light&count_private=true&layout=compact" width="205" alt="Trung Bach's most used languages" />
+<a href="https://github.com/quangdz1704">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&theme=light&count_private=true&layout=compact" width="205" alt="Quangdz's most used languages" />
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
