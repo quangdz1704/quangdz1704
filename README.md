@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Nguyen The Quang, frontend & backend developer.</h2>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/nguyen-the-quang-574460276/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 4px"/>
@@ -11,12 +12,14 @@
 </div>
 
 
+
 #### 💻 &nbsp; About Me :
  <p>
   <img src="https://badges.pufler.dev/visits/quangdz1704/github-profile"> 
   <img src="https://badges.pufler.dev/repos/quangdz1704">
   <img src="https://badges.pufler.dev/commits/monthly/quangdz1704">
 </p>
+
 
 
 - 💼 Currently exploring the exciting domains of frontend and backend development.
@@ -26,21 +29,12 @@
 #### :fire: My Stats :
 <div style="margin: auto; text-align: center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quangdz1704)
+<a href="https://github.com/quangdz1704"><img src="https://github-readme-streak-stats.herokuapp.com?user=quangdz1704&theme=meta-light&border_radius=4&background=45%2CFF9D01%2CFFEB25&border=FFFCF9" alt="GitHub Streak" /></a>
 </div>
-<div style="display: flex; flex-wrap: wrap; align-item: center; justify-content: center">
 
-<div style="margin-right: 16px">
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=quangdz1704&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="quangdz1704"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="quangdz1704"/> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangdz1704&show_icons=true)
-
-<!-- &theme=radical -->
-</div>
-<div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact)
-</div>
-</div>
 
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangdz1704) -->
 
