@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Nguyen The Quang, frontend & backend developer.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/nguyen-the-quang-574460276/"  styles='border-radius: 8px'>
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/nguyen-the-quang-574460276/" >
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="border-radius: 4px"/>
     </a>
-    <a href="mailto:ntq.1704@gmail.com" styles='border-radius: 8px'>
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a href="mailto:ntq.1704@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style='border-radius: 4px'/>
     </a>
   </div>
 </div>
@@ -23,20 +23,26 @@
 - 🚀 Passionate about JavaScript and TypeScript.
 - 🌟 Committed to crafting code that's clean, maintainable, and thoroughly tested.
 
-<img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-60px" align="right" width="465" height="365" />
-
 #### :fire: My Stats :
+<div style="margin: auto; text-align: center">
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangdz1704)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=quangdz1704)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangdz1704)
+</div>
+<div style="display: flex; flex-wrap: wrap; align-item: center; justify-content: center">
 
-<!-- 
-<a href="https://github.com/quangdz1704">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&theme=light&count_private=true&layout=compact" width="205" alt="Quangdz's most used languages" />
-</a> -->
+<div style="margin-right: 16px">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangdz1704&show_icons=true)
+
+<!-- &theme=radical -->
+</div>
+<div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangdz1704&layout=compact)
+</div>
+</div>
+
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=quangdz1704) -->
 
 #### :hammer_and_wrench: Languages and Tools :
 
