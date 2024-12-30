@@ -31,13 +31,6 @@
 - 🌟 Focused on writing clean, maintainable, and well-tested code.
 
 
-📊 **Weekly development by quangdz1704:**
-
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
-
 #### :fire: My Stats :
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=quangdz1704&theme=meta-light&border_radius=4&background=45%2CFF9D01%2CFFEB25&border=FFFCF9" alt="GitHub Streak" /></p>
