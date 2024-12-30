@@ -1,7 +1,8 @@
 <div id="header" align="center">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" style="max-width: 100%;display: inline-block;border-radius: 8px;" data-target="animated-image.originalImage">
+    
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="400" style="max-width: 100%; display: inline-block; border-radius: 12px;" data-target="animated-image.originalImage">
 
+  
   <h2> Hi 👋 I'm Nguyen The Quang, frontend & backend developer.</h2>
 
   <div id="badges">
@@ -42,7 +43,13 @@
 <br />
 
 #### :hammer_and_wrench: Languages and Tools :
-<div>
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
